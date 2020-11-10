@@ -6,3 +6,7 @@ numpy_files				contains midi files as .csv files - easy to read but kinda memory
 
 MIDI_files_processed			contains midi files reconverted from numpy
 					this is what a theoretical output might look like since it doesnt have program msgs
+
+Notes_Dataset				NEEDS TO BE DOWNLOADED - file too big:
+					https://drive.google.com/file/d/1mTXywGuZjaXWVXF8ZM_0Td4aIzZ1e2op/view?usp=sharing
+					Contains tensors for 20-note samples
