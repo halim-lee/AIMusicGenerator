@@ -1,2 +1,2 @@
-# AIMusicGenerator
-Music generator with Neural Networks
+# Musical Instrument Classifier
+Backup files for Musical Instrument Classifier with Neural Networks
